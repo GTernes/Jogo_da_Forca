@@ -1,6 +1,5 @@
 import random
 
-
 def main():
     palavras = []
     with open('palavras.txt', 'r', encoding='utf-8') as f:
